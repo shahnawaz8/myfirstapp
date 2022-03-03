@@ -1,10 +1,18 @@
 .App {
-  text-align: center;
+  text-align: left;
 }
 
 .App-logo {
   height: 40vmin;
   pointer-events: none;
+}
+
+.clist{
+  list-style-type: circle;
+}
+
+.clist1{
+  list-style-type: square;
 }
 
 @media (prefers-reduced-motion: no-preference) {
